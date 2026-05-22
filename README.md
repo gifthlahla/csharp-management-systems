@@ -1,3 +1,7 @@
+> **⚠️ This repository has been archived.**
+> The code and detailed documentation for these systems have been consolidated into my new, primary portfolio repository:
+> **[View the active collection here → github.com/gifthlahla/high-school-management-systems](https://github.com/gifthlahla/high-school-management-systems)**
+
 # C# Desktop Management Systems
 
 42 desktop management systems built 
